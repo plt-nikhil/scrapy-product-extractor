@@ -18,7 +18,7 @@ This Scrapy spider scrapes product details from an e-commerce website and export
 To install dependencies, run:
 ```bash
 pip install scrapy scrapy-xlsx
-
+exit 0
 
 ### Key Sections:
 1. **Introduction**: A brief overview of the spider and what it does.
